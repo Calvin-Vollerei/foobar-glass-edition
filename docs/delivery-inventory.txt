@@ -1,6 +1,6 @@
 foobar2000 中文·毛玻璃（便携版）交付清单
 ============================================================
-生成时间 : 2026-11-10 05:40:15
+生成时间 : 2026-11-10 06:20:40
 交付根   : <delivery-root>
 顶层条目 : 35 个（目录 7 / 文件 28）
 
@@ -9,7 +9,7 @@ foobar2000 中文·毛玻璃（便携版）交付清单
 [目录] components  — 13 个文件，共 16,845,937 B
 [目录] doc  — 4 个文件，共 78,116 B
 [目录] icons  — 30 个文件，共 562,867 B
-[目录] profile  — 6002 个文件，共 317,965,645 B
+[目录] profile  — 6003 个文件，共 318,199,245 B
 [目录] runtime  — 47 个文件，共 2,485,138 B
 [目录] themes  — 32 个文件，共 8,959 B
 [目录] 截图  — 空目录
@@ -33,7 +33,7 @@ foobar2000 中文·毛玻璃（便携版）交付清单
 [文件] portable_mode  — 0 B
 [文件] portable_mode_enabled  — 0 B
 [文件] PP-UWP-Interop.dll  — 43,840 B
-[文件] README-中文.md  — 7,125 B
+[文件] README-中文.md  — 7,041 B
 [文件] shared.dll  — 156,040 B
 [文件] sqlite3.dll  — 1,168,784 B
 [文件] vccorlib140.dll  — 352,384 B
@@ -77,4 +77,4 @@ shim（D: 源）  : <project-root>\dist\theme-glass.js
     SHA-256 F76FA752BEC0AE66D8200EFCB7B7E40090CB6E29C88EF98F75A0CA3D8AAFFD2C
     同步状态: 一致
 script 标签: 存在，位于 </body> 之前（./glass-acrylic.js）
-README-中文.md: 7,125 B，SHA-256 F4F536C95A8BAEA053919987E35A46CBBB466857E08B4C9FD0F1A738C4096E3A
+README-中文.md: 7,041 B，SHA-256 C12B82E158F268C41E1989DB8D68AA587D385C6AACF702A830E45D21D74F0552

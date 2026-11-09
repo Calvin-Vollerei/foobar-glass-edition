@@ -70,7 +70,7 @@ var CAPSULE_BLUR  = 'blur(30px) saturate(175%)';
 
 ## 截图
 
-截图见 `screenshots/` 的 `FINAL_dark_cropped.png` / `FINAL_light_cropped.png`（为保护隐私，已裁掉底部 140 px 的播放胶囊区域）。
+截图见 `screenshots/` 的 `FINAL_dark.png` / `FINAL_light.png`。
 
 ## 已知限制（如实说明）
 

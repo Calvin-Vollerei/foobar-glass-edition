@@ -7,7 +7,7 @@ Windows DWM **Acrylic** for real backdrop blur, and the theme gets a full transl
 colour modes — frosted player capsule, frosted content card and a dimmed/blurred dialog scrim.
 The interface is **bilingual (Simplified Chinese / English)** and follows the theme's language setting.
 
-![Dark mode](screenshots/FINAL_dark_cropped.png)
+![Dark mode](screenshots/FINAL_dark.png)
 
 ## Features
 
@@ -22,9 +22,9 @@ The interface is **bilingual (Simplified Chinese / English)** and follows the th
 
 | Dark | Light |
 | --- | --- |
-| ![](screenshots/FINAL_dark_cropped.png) | ![](screenshots/FINAL_light_cropped.png) |
+| ![](screenshots/FINAL_dark.png) | ![](screenshots/FINAL_light.png) |
 
-> The bottom 140 px (player capsule) is cropped from these screenshots.
+> Screenshots include the frosted player capsule at the bottom.
 
 ## Download
 
@@ -72,7 +72,7 @@ The interface is **bilingual (Simplified Chinese / English)** and follows the th
 做真实背景模糊，深色/浅色两套半透明玻璃，播放胶囊、内容卡片、对话框都做磨砂处理。
 界面**双语（简体中文 / English）**，跟随主题的语言设置切换。
 
-![深色模式](screenshots/FINAL_dark_cropped.png)
+![深色模式](screenshots/FINAL_dark.png)
 
 ## 特性
 
@@ -87,9 +87,9 @@ The interface is **bilingual (Simplified Chinese / English)** and follows the th
 
 | 深色 | 浅色 |
 | --- | --- |
-| ![](screenshots/FINAL_dark_cropped.png) | ![](screenshots/FINAL_light_cropped.png) |
+| ![](screenshots/FINAL_dark.png) | ![](screenshots/FINAL_light.png) |
 
-> 截图底部 140 px（播放胶囊）已裁掉。
+> 截图保留了底部的磨砂播放胶囊。
 
 ## 下载
 
