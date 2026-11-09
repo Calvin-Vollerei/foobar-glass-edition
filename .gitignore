@@ -1,0 +1,25 @@
+# 个人数据：绝不入库
+profile/
+**/EBWebView/
+**/state/music-netease.v1.json
+**/state/sessions/
+**/state/ncm/
+**/lxserver/data/
+**/lxserver/logs/
+**/lxserver/cache/
+*.log
+
+# 本地曲库 / foobar2000 数据
+*.fpl
+*.sqlite
+*.db
+
+# 构建与发布产物（本仓库只放精选文件）
+dist/
+releases/
+work/
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store

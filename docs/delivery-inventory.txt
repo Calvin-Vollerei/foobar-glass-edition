@@ -1,0 +1,80 @@
+foobar2000 中文·毛玻璃（便携版）交付清单
+============================================================
+生成时间 : 2026-11-10 05:40:15
+交付根   : <delivery-root>
+顶层条目 : 35 个（目录 7 / 文件 28）
+
+一、顶层目录
+------------------------------------------------------------
+[目录] components  — 13 个文件，共 16,845,937 B
+[目录] doc  — 4 个文件，共 78,116 B
+[目录] icons  — 30 个文件，共 562,867 B
+[目录] profile  — 6002 个文件，共 317,965,645 B
+[目录] runtime  — 47 个文件，共 2,485,138 B
+[目录] themes  — 32 个文件，共 8,959 B
+[目录] 截图  — 空目录
+
+二、顶层文件
+------------------------------------------------------------
+[文件] avcodec-fb2k-62.dll  — 1,465,232 B
+[文件] avformat-fb2k-62.dll  — 361,872 B
+[文件] avutil-fb2k-60.dll  — 1,182,608 B
+[文件] concrt140.dll  — 324,208 B
+[文件] Fb2kShellExt.dll  — 189,760 B
+[文件] foobar2000 Shell Associations Updater.exe  — 76,096 B
+[文件] foobar2000.exe  — 5,013,392 B
+[文件] fooHelper.exe  — 71,568 B
+[文件] installer.ini  — 252 B
+[文件] msvcp140.dll  — 557,728 B
+[文件] msvcp140_1.dll  — 35,952 B
+[文件] msvcp140_2.dll  — 280,200 B
+[文件] msvcp140_atomic_wait.dll  — 50,304 B
+[文件] msvcp140_codecvt_ids.dll  — 31,872 B
+[文件] portable_mode  — 0 B
+[文件] portable_mode_enabled  — 0 B
+[文件] PP-UWP-Interop.dll  — 43,840 B
+[文件] README-中文.md  — 7,125 B
+[文件] shared.dll  — 156,040 B
+[文件] sqlite3.dll  — 1,168,784 B
+[文件] vccorlib140.dll  — 352,384 B
+[文件] vcruntime140.dll  — 124,544 B
+[文件] vcruntime140_1.dll  — 49,792 B
+[文件] vcruntime140_threads.dll  — 38,528 B
+[文件] WebView2Loader.dll  — 160,368 B
+[文件] zlib1.dll  — 110,480 B
+[文件] 启动 foobar2000（中文·毛玻璃）.lnk  — 775 B
+[文件] 启动.bat  — 53 B
+
+三、components\ 内容（DLL 12 个；另有 1 个非 DLL 文件）
+------------------------------------------------------------
+[DLL ] components\foo_converter.dll  — 1,026,960 B
+[DLL ] components\foo_dsp_eq.dll  — 328,080 B
+[DLL ] components\foo_dsp_std.dll  — 402,832 B
+[DLL ] components\foo_fileops.dll  — 581,520 B
+[DLL ] components\foo_freedb2.dll  — 331,664 B
+[DLL ] components\foo_input_std.dll  — 2,466,704 B
+[DLL ] components\foo_out_upnp.dll  — 1,047,440 B
+[DLL ] components\foo_playcount.dll  — 279,040 B
+[DLL ] components\foo_ui_std.dll  — 2,479,504 B
+[DLL ] components\foo_ui_webview2.dll  — 7,083,520 B
+[DLL ] components\foo_unpack.dll  — 657,288 B
+[DLL ] components\WebView2Loader.dll  — 160,368 B
+[FILE] components\foo_ui_webview2_resources\README.md  — 1,017 B
+[目录] components\foo_ui_webview2_resources\dist  — 空目录
+
+四、关键组件 SHA-256
+------------------------------------------------------------
+foo_playcount.dll  (279,040 B)
+    68718DBF463E8DC1402261F11B0CDC39BD6E5291971DEAA8B91ECD4AF9CD7466
+foo_ui_webview2.dll  (7,083,520 B)
+    684E13A84934A57609803DED6E67D8DEF4F32CC79F2114C856D0C0FED9398B8D
+
+五、交付一致性核对
+------------------------------------------------------------
+shim（W: 交付）: <delivery-root>\profile\webview-ui\default\fe\0.3.0\glass-acrylic.js
+    SHA-256 F76FA752BEC0AE66D8200EFCB7B7E40090CB6E29C88EF98F75A0CA3D8AAFFD2C
+shim（D: 源）  : <project-root>\dist\theme-glass.js
+    SHA-256 F76FA752BEC0AE66D8200EFCB7B7E40090CB6E29C88EF98F75A0CA3D8AAFFD2C
+    同步状态: 一致
+script 标签: 存在，位于 </body> 之前（./glass-acrylic.js）
+README-中文.md: 7,125 B，SHA-256 F4F536C95A8BAEA053919987E35A46CBBB466857E08B4C9FD0F1A738C4096E3A

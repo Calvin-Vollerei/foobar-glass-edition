@@ -1,0 +1,2 @@
+# Keep every byte as authored: no EOL conversion, so SHA256SUMS stays valid after clone.
+* -text

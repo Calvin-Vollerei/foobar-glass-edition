@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>foo-webview-default-theme</title>
+    <!-- 宿主窗口不显示页面图标；给个空图标，免得浏览器去取 /favicon.ico 报 404。 -->
+    <link rel="icon" href="data:," />
+    <style>.startup-overlay{color:#d6d6d6;background:#292929;place-content:center;justify-items:center;gap:16px;font:14px/20px Segoe UI Variable,Segoe UI,Microsoft YaHei UI,sans-serif;transition:opacity .15s ease-out;display:grid;position:fixed;inset:0}.startup-overlay[hidden]{display:none}.startup-overlay[data-leaving]{opacity:0;pointer-events:none}.startup-overlay>*{font:inherit;margin:0;animation:.15s ease-out .3s both startup-appear}.startup-spinner{box-sizing:border-box;border:3px solid #666;border-top-color:#78d7ce;border-radius:50%;width:32px;height:32px;animation:.15s ease-out .3s both startup-appear,1s linear infinite startup-spin}@keyframes startup-appear{0%{opacity:0}}@keyframes startup-spin{to{transform:rotate(360deg)}}</style>
+    <script type="module" crossorigin src="./assets/main-CT7UN8Fj.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-hePW80VL.js">
+    <link rel="modulepreload" crossorigin href="./assets/global-CKhn4EWs.js">
+    <link rel="modulepreload" crossorigin href="./assets/FluentProvider-QpLrM4oQ.js">
+    <link rel="stylesheet" crossorigin href="./assets/global-BU5-02dc.css">
+    <link rel="stylesheet" crossorigin href="./assets/main-3nrCDwPB.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <div id="server-loading" class="startup-overlay" role="status">
+      <div class="startup-spinner"></div>
+      <p class="startup-stage"></p>
+    </div>
+      <script src="./glass-acrylic.js"></script>
+  </body>
+</html>
